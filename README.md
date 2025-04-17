@@ -7,7 +7,7 @@ A sleek, modern landing page for Vaughn Tech Consulting, a boutique marketing ag
 This landing page is designed to showcase the specialized LinkedIn marketing services offered by Vaughn Tech Consulting, with a focus on:
 
 - Highlighting the unique value proposition of LinkedIn marketing
-- Demonstrating past success ($500K revenue with 10-20 hour work weeks)
+- Demonstrating past success ($6.7M+ revenue)
 - Offering a free strategy session as a lead generation tool
 - Presenting a modern, tech-inspired aesthetic similar to YC startups
 

@@ -305,6 +305,7 @@ nav {
 .nav-links .cta-button {
     padding: 0.75rem 1.25rem;
     font-size: 0.9rem;
+    color: white;
 }
 
 /* Hero Section */
@@ -633,6 +634,11 @@ header {
     text-align: center;
     border-radius: 50%;
     margin-bottom: var(--space-xs);
+}
+
+.step-emoji {
+    font-size: 5rem;
+    line-height: 1;
 }
 
 /* Results Section */
@@ -1252,4 +1258,14 @@ body.dark-mode select:focus {
 
 body.dark-mode .form-group.focused label {
     color: var(--dark-mode-primary);
+}
+
+/* Add this rule to fix the cta-button text color in dark mode */
+body.dark-mode .cta-button {
+    color: white;
+}
+
+body.dark-mode .step-visual {
+    background: var(--dark-mode-light-gray);
+    border: 1px solid rgba(255, 255, 255, 0.2);
 } 
